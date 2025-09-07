@@ -1,5 +1,16 @@
 # Case-Studies
 
+
+# VPN set up using open vpn software for connecting private servers
+
+A brief description of what this project does and who it's for
+
+
+## Requirements
+1) VPC with private and public servers.
+2) Check SG for public server and allow UDP 1194 port. (for first time to check allow all traffic)
+
+
 ## Steps
 1) Connect to public server and install open vpn software 
 (refer this link for installation: https://github.com/Nyr/openvpn-install/blob/master/README.md )
