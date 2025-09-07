@@ -1,4 +1,4 @@
-# Case-Studies
+# Case-Study-1
 
 
 # VPN set up using open vpn software for connecting private servers
